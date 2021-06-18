@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "58s7sY7PquwKJWk4oS9rfNlNE7HaeFLqO4P/AW08bfArNckuK99gUP5gD/4kGx1AWmx3zI5C+sMRLjpANoIdZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mostafa Kiswani\\source\\repos\\WATERLINE\\WATERLINE.Public\\WATERLINE.Public.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mostafa Kiswani\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

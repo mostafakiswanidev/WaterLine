@@ -1,0 +1,12 @@
+C:\Users\Mostafa Kiswani\source\repos\WATERLINE\WATERLINE.Helpers\bin\Debug\netcoreapp3.1\WATERLINE.Helpers.deps.json
+C:\Users\Mostafa Kiswani\source\repos\WATERLINE\WATERLINE.Helpers\bin\Debug\netcoreapp3.1\WATERLINE.Helpers.dll
+C:\Users\Mostafa Kiswani\source\repos\WATERLINE\WATERLINE.Helpers\bin\Debug\netcoreapp3.1\WATERLINE.Helpers.pdb
+C:\Users\Mostafa Kiswani\source\repos\WATERLINE\WATERLINE.Helpers\bin\Debug\netcoreapp3.1\WATERLINE.Settings.dll
+C:\Users\Mostafa Kiswani\source\repos\WATERLINE\WATERLINE.Helpers\bin\Debug\netcoreapp3.1\WATERLINE.Settings.pdb
+C:\Users\Mostafa Kiswani\source\repos\WATERLINE\WATERLINE.Helpers\obj\Debug\netcoreapp3.1\WATERLINE.Helpers.csprojAssemblyReference.cache
+C:\Users\Mostafa Kiswani\source\repos\WATERLINE\WATERLINE.Helpers\obj\Debug\netcoreapp3.1\WATERLINE.Helpers.AssemblyInfoInputs.cache
+C:\Users\Mostafa Kiswani\source\repos\WATERLINE\WATERLINE.Helpers\obj\Debug\netcoreapp3.1\WATERLINE.Helpers.AssemblyInfo.cs
+C:\Users\Mostafa Kiswani\source\repos\WATERLINE\WATERLINE.Helpers\obj\Debug\netcoreapp3.1\WATERLINE.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa Kiswani\source\repos\WATERLINE\WATERLINE.Helpers\obj\Debug\netcoreapp3.1\WATERLINE.Helpers.csproj.CopyComplete
+C:\Users\Mostafa Kiswani\source\repos\WATERLINE\WATERLINE.Helpers\obj\Debug\netcoreapp3.1\WATERLINE.Helpers.dll
+C:\Users\Mostafa Kiswani\source\repos\WATERLINE\WATERLINE.Helpers\obj\Debug\netcoreapp3.1\WATERLINE.Helpers.pdb

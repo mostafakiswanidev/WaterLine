@@ -1,0 +1,9 @@
+C:\Users\Mostafa Kiswani\source\repos\WATERLINE\WATERLINE.Settings\bin\Debug\netcoreapp3.1\WATERLINE.Settings.deps.json
+C:\Users\Mostafa Kiswani\source\repos\WATERLINE\WATERLINE.Settings\bin\Debug\netcoreapp3.1\WATERLINE.Settings.dll
+C:\Users\Mostafa Kiswani\source\repos\WATERLINE\WATERLINE.Settings\bin\Debug\netcoreapp3.1\WATERLINE.Settings.pdb
+C:\Users\Mostafa Kiswani\source\repos\WATERLINE\WATERLINE.Settings\obj\Debug\netcoreapp3.1\WATERLINE.Settings.csprojAssemblyReference.cache
+C:\Users\Mostafa Kiswani\source\repos\WATERLINE\WATERLINE.Settings\obj\Debug\netcoreapp3.1\WATERLINE.Settings.AssemblyInfoInputs.cache
+C:\Users\Mostafa Kiswani\source\repos\WATERLINE\WATERLINE.Settings\obj\Debug\netcoreapp3.1\WATERLINE.Settings.AssemblyInfo.cs
+C:\Users\Mostafa Kiswani\source\repos\WATERLINE\WATERLINE.Settings\obj\Debug\netcoreapp3.1\WATERLINE.Settings.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa Kiswani\source\repos\WATERLINE\WATERLINE.Settings\obj\Debug\netcoreapp3.1\WATERLINE.Settings.dll
+C:\Users\Mostafa Kiswani\source\repos\WATERLINE\WATERLINE.Settings\obj\Debug\netcoreapp3.1\WATERLINE.Settings.pdb

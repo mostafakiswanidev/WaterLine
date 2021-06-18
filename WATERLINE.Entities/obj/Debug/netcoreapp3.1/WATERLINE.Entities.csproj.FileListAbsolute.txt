@@ -1,0 +1,14 @@
+C:\Users\Mostafa Kiswani\source\repos\WATERLINE\WATERLINE.Entities\bin\Debug\netcoreapp3.1\WATERLINE.Helpers.dll
+C:\Users\Mostafa Kiswani\source\repos\WATERLINE\WATERLINE.Entities\bin\Debug\netcoreapp3.1\WATERLINE.Settings.dll
+C:\Users\Mostafa Kiswani\source\repos\WATERLINE\WATERLINE.Entities\obj\Debug\netcoreapp3.1\WATERLINE.Entities.csprojAssemblyReference.cache
+C:\Users\Mostafa Kiswani\source\repos\WATERLINE\WATERLINE.Entities\obj\Debug\netcoreapp3.1\WATERLINE.Entities.AssemblyInfoInputs.cache
+C:\Users\Mostafa Kiswani\source\repos\WATERLINE\WATERLINE.Entities\obj\Debug\netcoreapp3.1\WATERLINE.Entities.AssemblyInfo.cs
+C:\Users\Mostafa Kiswani\source\repos\WATERLINE\WATERLINE.Entities\bin\Debug\netcoreapp3.1\WATERLINE.Entities.deps.json
+C:\Users\Mostafa Kiswani\source\repos\WATERLINE\WATERLINE.Entities\bin\Debug\netcoreapp3.1\WATERLINE.Entities.dll
+C:\Users\Mostafa Kiswani\source\repos\WATERLINE\WATERLINE.Entities\bin\Debug\netcoreapp3.1\WATERLINE.Entities.pdb
+C:\Users\Mostafa Kiswani\source\repos\WATERLINE\WATERLINE.Entities\bin\Debug\netcoreapp3.1\WATERLINE.Helpers.pdb
+C:\Users\Mostafa Kiswani\source\repos\WATERLINE\WATERLINE.Entities\bin\Debug\netcoreapp3.1\WATERLINE.Settings.pdb
+C:\Users\Mostafa Kiswani\source\repos\WATERLINE\WATERLINE.Entities\obj\Debug\netcoreapp3.1\WATERLINE.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa Kiswani\source\repos\WATERLINE\WATERLINE.Entities\obj\Debug\netcoreapp3.1\WATERLINE.Entities.csproj.CopyComplete
+C:\Users\Mostafa Kiswani\source\repos\WATERLINE\WATERLINE.Entities\obj\Debug\netcoreapp3.1\WATERLINE.Entities.dll
+C:\Users\Mostafa Kiswani\source\repos\WATERLINE\WATERLINE.Entities\obj\Debug\netcoreapp3.1\WATERLINE.Entities.pdb

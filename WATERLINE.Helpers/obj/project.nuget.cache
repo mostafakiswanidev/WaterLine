@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rY5wNZyVHdGHxqf7AP9LRYkDzJknPHGlVaQ/6jL1aB5BxyI8ZrcfBPg0x3rE8aKqwNq6eu40fzunZXMG7Pk8dg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mostafa Kiswani\\source\\repos\\WATERLINE\\WATERLINE.Helpers\\WATERLINE.Helpers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mostafa Kiswani\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Mostafa Kiswani\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
