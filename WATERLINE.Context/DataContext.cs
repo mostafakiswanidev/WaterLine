@@ -29,6 +29,33 @@ namespace WATERLINE.Context
             modelBuilder.Entity<Role>().HasData(new Role { Id = 1, Name = "User", CreatedBy = "System" });
             modelBuilder.Entity<Role>().HasData(new Role { Id = 2, Name = "Admin", CreatedBy = "System" });
             modelBuilder.Entity<Role>().HasData(new Role { Id = 3, Name = "Super", CreatedBy = "System" });
+            modelBuilder.Entity<Configuration>().HasData(new Configuration 
+            { 
+                Id = 1, 
+                Key = "Application Name", 
+                Value = "Waterline", 
+                CreatedBy = "System",
+                DeletableBySupers = false, 
+                DeletableByNormals = false, 
+                EditableByNormals = false,                                   
+                EditableBySupers = false, 
+                ViewableByNormals = true, 
+                ViewableBySupers = true
+            });
+
+            modelBuilder.Entity<Configuration>().HasData(new Configuration
+            {
+                Id = 2,
+                Key = "Application Slogan",
+                Value = "Interior Design Studio",
+                CreatedBy = "System",
+                DeletableBySupers = false,
+                DeletableByNormals = false,
+                EditableByNormals = false,
+                EditableBySupers = false,
+                ViewableByNormals = true,
+                ViewableBySupers = true
+            });
         }
 
         public virtual async Task<int> SaveChangesAsync(string userId = null)

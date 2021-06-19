@@ -125,6 +125,38 @@ namespace WATERLINE.Context.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Configurations");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            CreatedBy = "System",
+                            DateCreated = new DateTime(2021, 6, 19, 21, 47, 23, 528, DateTimeKind.Unspecified).AddTicks(6873),
+                            DeletableByNormals = false,
+                            DeletableBySupers = false,
+                            Deleted = false,
+                            EditableByNormals = false,
+                            EditableBySupers = false,
+                            Key = "Application Name",
+                            Value = "Waterline",
+                            ViewableByNormals = true,
+                            ViewableBySupers = true
+                        },
+                        new
+                        {
+                            Id = 2,
+                            CreatedBy = "System",
+                            DateCreated = new DateTime(2021, 6, 19, 21, 47, 23, 529, DateTimeKind.Unspecified).AddTicks(183),
+                            DeletableByNormals = false,
+                            DeletableBySupers = false,
+                            Deleted = false,
+                            EditableByNormals = false,
+                            EditableBySupers = false,
+                            Key = "Application Slogan",
+                            Value = "Interior Design Studio",
+                            ViewableByNormals = true,
+                            ViewableBySupers = true
+                        });
                 });
 
             modelBuilder.Entity("WATERLINE.Entities.Role", b =>
@@ -164,7 +196,7 @@ namespace WATERLINE.Context.Migrations
                         {
                             Id = 1,
                             CreatedBy = "System",
-                            DateCreated = new DateTime(2021, 6, 18, 21, 38, 6, 931, DateTimeKind.Unspecified).AddTicks(2999),
+                            DateCreated = new DateTime(2021, 6, 19, 21, 47, 23, 523, DateTimeKind.Unspecified).AddTicks(9528),
                             Deleted = false,
                             Name = "User"
                         },
@@ -172,7 +204,7 @@ namespace WATERLINE.Context.Migrations
                         {
                             Id = 2,
                             CreatedBy = "System",
-                            DateCreated = new DateTime(2021, 6, 18, 21, 38, 6, 936, DateTimeKind.Unspecified).AddTicks(7254),
+                            DateCreated = new DateTime(2021, 6, 19, 21, 47, 23, 528, DateTimeKind.Unspecified).AddTicks(5930),
                             Deleted = false,
                             Name = "Admin"
                         },
@@ -180,7 +212,7 @@ namespace WATERLINE.Context.Migrations
                         {
                             Id = 3,
                             CreatedBy = "System",
-                            DateCreated = new DateTime(2021, 6, 18, 21, 38, 6, 936, DateTimeKind.Unspecified).AddTicks(7525),
+                            DateCreated = new DateTime(2021, 6, 19, 21, 47, 23, 528, DateTimeKind.Unspecified).AddTicks(6120),
                             Deleted = false,
                             Name = "Super"
                         });

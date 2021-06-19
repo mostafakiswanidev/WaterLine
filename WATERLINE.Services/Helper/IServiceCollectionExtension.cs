@@ -25,6 +25,7 @@ namespace WATERLINE.Services.Helper
         {
             services.AddScoped<IRolesRepository, RolesRepository>();
             services.AddScoped<IUsersRepository, UsersRepository>();
+            services.AddScoped<IConfigurationRepository, ConfigurationRepository>();
             
             return services;
         }
